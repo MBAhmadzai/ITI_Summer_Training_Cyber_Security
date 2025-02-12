@@ -105,10 +105,3 @@ This repository provides a **comprehensive** guide to Ethical Hacking and Penetr
 
 ---
 
-### 🚀 Stay Updated
-- Subscribe to cybersecurity YouTube channels:
-  - [IppSec - YouTube](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
-  - [LiveOverflow](https://www.youtube.com/c/GeneralEG/videos)
-  - [Ibrahem Hegazy - YouTube](https://www.youtube.com/playlist?list=PLv7cogHXoVhXvHPzIl1dWtBiYUAL8baHj)
-
-💡 *Stay curious, keep learning, and happy hacking!*
